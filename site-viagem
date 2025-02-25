@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="meta visto.svg" type="image/x-icon">
+    </title>META VISTOS</title>
+</head>
+<body>
+    
+</body><h1>&#x2708; META VISTOS &#x2708;</h1>
+
+<img src="viagem300.jpg" alt="logo HTML5">
+
+<hr>
+
+    <h4><p> Tire quais duviddos sobre seua viagem</p></h4>
+
+    <p>1-Caso tenha alguma dificuldade para tirar seu passaporte(<abbr title="Brasil">BR</abbr> e <abbr title="Portugal">PT</abbr>),entre em contato com nossa assistente  
+    <br>2-Caso queria tirar seu visto Americano ou canadense,entre em contato com nossa assistente
+    </p>
+    
+
+    <h4><p>escholha algumas das opcoes abaixo </p></h4> 
+    <p><br>1-falar com <abbr title="Inteligencia artificial">IA</abbr> <br>2-Falar pelo whats <br> 3-Ja consegui tirar minhasa duvidas <hr></p>
+
+   <h3> <p> passagem de avião para o Brasil</p></h3>
+    <img src="https://classic.exame.com/wp-content/uploads/2023/10/QUADRO-PASSAGENS-AEREAS.jpg?resize=820,613"  alt="Preco de passagemBR">
+ 
+   
+
+    <h3> passagem de avião para o esterior</h3>
+    <!--Listas ordenadas "ol type="  1 A a I i -->
+<ol type="A"> 
+    <li>Canada</li>
+    <li>Estados Unidos</li>
+    <li>Mexico</li>
+</ol>
+
+<h3>passagem de avião para as Americas</h3>
+<!--Listas não ordenadas. "ul type=" disc circle square-->
+  <ul>   
+<li>Cuba</li>
+<li>Colombia</li>
+<li>Brasil</li>
+<li>Argentina</li>
+<li>Paraguai</li>
+  </ul>
+
+
+
+    <p><small>**Nos não se responsabilizamos por qualquer dano causado pelo preco das passagem oferecidas pelo nosso site.**</small></p>
+
+</body>
+</html>
