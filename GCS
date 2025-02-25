@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="Pt-Br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Logo GCS.ico" type="image/x-icon">
+    <title>GCS Importados</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <style>
+           body{    
+            background-color: rgb(247, 247, 247);
+           }
+    </style>
+
+</head>
+<body>
+    <h1>GCS Importados</h1>
+    <h2>Loja com os ultimos lancamento de todas as marcas</h2>
+
+<hr>
+
+<h4>Quais Marcas voce Procura?</h4>  
+   </p><br>Nike <br>LV <br>Chanel <br> adidas</p>
+
+
+
+</body>
+</html> 
